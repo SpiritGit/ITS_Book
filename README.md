@@ -1,3 +1,6 @@
-# 数理基础
+---
+description: G1P1
+---
 
-$$\frac{d_y}{d_x}$$
+# Page 1
+
