@@ -5,6 +5,7 @@
 ## 基础知识
 
 * [数学](ji-chu-zhi-shi/shu-xue/README.md)
+  * [Page 7](ji-chu-zhi-shi/shu-xue/page-7.md)
   * [page 1](ji-chu-zhi-shi/shu-xue/page-1.md)
 * [交通工程学](ji-chu-zhi-shi/jiao-tong-gong-cheng-xue/README.md)
   * [Page 4](ji-chu-zhi-shi/jiao-tong-gong-cheng-xue/page-4.md)
@@ -12,16 +13,6 @@
 * [机器学习](ji-chu-zhi-shi/ji-qi-xue-xi/README.md)
   * [Page 5](ji-chu-zhi-shi/ji-qi-xue-xi/page-5.md)
   * [Page 6](ji-chu-zhi-shi/ji-qi-xue-xi/page-6.md)
-
-## 数学基础
-
-* [Page 1](group-1/page-1.md)
-* [Page 2](group-1/page-2.md)
-
-## 交通工程学基础
-
-* [Page 1](group-2/page-1.md)
-* [Page 2](group-2/page-2.md)
 
 ## 空间基础数据
 
