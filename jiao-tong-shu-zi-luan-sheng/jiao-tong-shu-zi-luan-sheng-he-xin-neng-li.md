@@ -1,7 +1,3 @@
----
-description: test
----
-
 # 交通数字孪生核心能力
 
 <figure><img src="../.gitbook/assets/can.jpg" alt=""><figcaption></figcaption></figure>
