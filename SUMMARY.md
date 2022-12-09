@@ -15,3 +15,4 @@
 ## 交通数字孪生
 
 * [交通数字孪生概述](jiao-tong-shu-zi-luan-sheng/jiao-tong-shu-zi-luan-sheng-gai-shu.md)
+* [交通数字孪生核心能力](jiao-tong-shu-zi-luan-sheng/jiao-tong-shu-zi-luan-sheng-he-xin-neng-li.md)
