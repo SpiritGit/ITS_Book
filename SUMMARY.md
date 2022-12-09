@@ -5,14 +5,14 @@
 ## 基础知识
 
 * [数学](ji-chu-zhi-shi/shu-xue/README.md)
-  * [Page 7](ji-chu-zhi-shi/shu-xue/page-7.md)
-  * [page 1](ji-chu-zhi-shi/shu-xue/page-1.md)
+  * [概率统计](ji-chu-zhi-shi/shu-xue/gai-shuai-tong-ji.md)
+  * [线性代数](ji-chu-zhi-shi/shu-xue/xian-xing-dai-shu.md)
 * [交通工程学](ji-chu-zhi-shi/jiao-tong-gong-cheng-xue/README.md)
-  * [Page 4](ji-chu-zhi-shi/jiao-tong-gong-cheng-xue/page-4.md)
-  * [Page 3](ji-chu-zhi-shi/jiao-tong-gong-cheng-xue/page-3.md)
+  * [交通流模型](ji-chu-zhi-shi/jiao-tong-gong-cheng-xue/jiao-tong-liu-mo-xing.md)
+  * [交通态势](ji-chu-zhi-shi/jiao-tong-gong-cheng-xue/jiao-tong-tai-shi.md)
 * [机器学习](ji-chu-zhi-shi/ji-qi-xue-xi/README.md)
-  * [Page 5](ji-chu-zhi-shi/ji-qi-xue-xi/page-5.md)
-  * [Page 6](ji-chu-zhi-shi/ji-qi-xue-xi/page-6.md)
+  * [监督学习](ji-chu-zhi-shi/ji-qi-xue-xi/jian-du-xue-xi.md)
+  * [无监督学习](ji-chu-zhi-shi/ji-qi-xue-xi/wu-jian-du-xue-xi.md)
 
 ## 空间基础数据
 
