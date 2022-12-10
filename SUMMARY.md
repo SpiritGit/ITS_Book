@@ -2,7 +2,8 @@
 
 ## 引言
 
-* [面向读者](README.md)
+* [序](README.md)
+* [面向读者](yin-yan/mian-xiang-du-zhe.md)
 * [智能交通的前世今生](yin-yan/zhi-neng-jiao-tong-de-qian-shi-jin-sheng.md)
 
 ## 基础知识
