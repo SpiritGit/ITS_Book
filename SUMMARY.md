@@ -18,6 +18,22 @@
 
 * [空间基础数据概述](kong-jian-ji-chu-shu-ju/kong-jian-ji-chu-shu-ju-gai-shu.md)
 
+## 泛在感知
+
+* [Page 8](fan-zai-gan-zhi/page-8.md)
+
+## 交通“一张图”
+
+* [Page 7](jiao-tong-yi-zhang-tu/page-7.md)
+
+## 交通知识图谱
+
+* [Page 2](jiao-tong-zhi-shi-tu-pu/page-2.md)
+
+## 车辆画像
+
+* [Page 5](che-liang-hua-xiang/page-5.md)
+
 ## 交通数字孪生
 
 * [交通数字孪生概述](jiao-tong-shu-zi-luan-sheng/jiao-tong-shu-zi-luan-sheng-gai-shu.md)
@@ -26,6 +42,26 @@
 * [应用场景及解决方案](jiao-tong-shu-zi-luan-sheng/ying-yong-chang-jing-ji-jie-jue-fang-an.md)
 * [参考文献](jiao-tong-shu-zi-luan-sheng/can-kao-wen-xian.md)
 
+## 交通态势研判
+
+* [Page 9](jiao-tong-tai-shi-yan-pan/page-9.md)
+
+## 智能决策
+
+* [Page 10](zhi-neng-jue-ce/page-10.md)
+
 ## 智能网联车路协同
 
 * [Page 1](zhi-neng-wang-lian-che-lu-xie-tong/page-1.md)
+
+## MaaS 出行即服务
+
+* [Page 3](maas-chu-hang-ji-fu-wu/page-3.md)
+
+## 主动管控
+
+* [Page 4](zhu-dong-guan-kong/page-4.md)
+
+## 信用交通
+
+* [Page 6](xin-yong-jiao-tong/page-6.md)
