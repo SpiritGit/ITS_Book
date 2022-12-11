@@ -15,8 +15,10 @@
   * [交通流模型](ji-chu-zhi-shi/jiao-tong-gong-cheng-xue/jiao-tong-liu-mo-xing.md)
   * [交通态势](ji-chu-zhi-shi/jiao-tong-gong-cheng-xue/jiao-tong-tai-shi.md)
 * [机器学习](ji-chu-zhi-shi/ji-qi-xue-xi/README.md)
+  * [什么是机器学习](ji-chu-zhi-shi/ji-qi-xue-xi/shi-mo-shi-ji-qi-xue-xi.md)
   * [监督学习](ji-chu-zhi-shi/ji-qi-xue-xi/jian-du-xue-xi.md)
   * [无监督学习](ji-chu-zhi-shi/ji-qi-xue-xi/wu-jian-du-xue-xi.md)
+  * [参考文献](ji-chu-zhi-shi/ji-qi-xue-xi/can-kao-wen-xian.md)
 
 ## 空间基础数据
 
