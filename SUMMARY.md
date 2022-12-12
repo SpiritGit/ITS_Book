@@ -20,17 +20,13 @@
   * [无监督学习](ji-chu-zhi-shi/ji-qi-xue-xi/wu-jian-du-xue-xi.md)
   * [参考文献](ji-chu-zhi-shi/ji-qi-xue-xi/can-kao-wen-xian.md)
 
-## 空间基础数据
+## 交通信息感知
 
-* [空间基础数据概述](kong-jian-ji-chu-shu-ju/kong-jian-ji-chu-shu-ju-gai-shu.md)
+* [Page 8](jiao-tong-xin-xi-gan-zhi/page-8.md)
 
-## 泛在感知
+## 地图
 
-* [Page 8](fan-zai-gan-zhi/page-8.md)
-
-## 交通“一张图”
-
-* [Page 7](jiao-tong-yi-zhang-tu/page-7.md)
+* [空间基础数据概述](di-tu/kong-jian-ji-chu-shu-ju-gai-shu.md)
 
 ## 交通知识图谱
 
