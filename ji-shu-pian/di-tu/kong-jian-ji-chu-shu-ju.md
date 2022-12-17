@@ -1,4 +1,4 @@
-# 标精度地图
+# 空间基础数据
 
 ## 一、空间基础数据介绍
 
@@ -28,7 +28,7 @@
 
 地图服务及可视化方面，空间基础数据可提供多类型、多维度的空间要素位置及属性信息，同时，多空间颗粒度层级设计，进一步保障可视化渲染的性能。
 
-## 三、空间基础数据结构
+## 三、空间基础数据解构
 
 空间基础数据涉及数据种类繁多，为有效组织管理，需对其按业务与属性进行分类管理。在 GIS系统中，空间对象的类型可基于几何形状分为：点(point)、线 (polyline)、多边形(polygon)。从高速公路业务角度考虑空间数据可分为：底图基础数据、道路设施、路侧设施、虚拟设施、拓扑关系、空间关系六大类型。 为满足各类业务、算法的需求，下面对空间基础数据进行解构与梳理，以便更好地理解和管理空间数据。本章共计规划 6 大类约 70 项空间数据，并给出命名规约，具体内容如下。
 
@@ -48,9 +48,9 @@
 * base\_water 全国水体底图
 * road\_hw\_intvl\_X 基于各类设施的路网区间
 
-<figure><img src="../.gitbook/assets/js_distr.jpeg" alt=""><figcaption><p>江苏行政区划示意图</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/js_distr.jpeg" alt=""><figcaption><p>江苏行政区划示意图</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/base_water (1).jpeg" alt=""><figcaption><p>江苏水体示意图</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/base_water (1).jpeg" alt=""><figcaption><p>江苏水体示意图</p></figcaption></figure>
 
 ### 道路
 
@@ -61,7 +61,7 @@
 * road\_hw\_line 高速路线(由高速路网道路路线根据一定规则合并而来)
 * road\_hw\_info 高速相关属性信息
 
-<figure><img src="../.gitbook/assets/jshw.jpeg" alt=""><figcaption><p>江苏高速路网示意图</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/jshw.jpeg" alt=""><figcaption><p>江苏高速路网示意图</p></figcaption></figure>
 
 ### 路侧设施
 
@@ -83,7 +83,7 @@
 * fac\_hw\_traffic\_light 高速信号灯&#x20;
 * fac\_hw\_billboard 高速广告牌
 
-<figure><img src="../.gitbook/assets/jshw_ts.jpeg" alt=""><figcaption><p>江苏收费站示意图</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/jshw_ts.jpeg" alt=""><figcaption><p>江苏收费站示意图</p></figcaption></figure>
 
 ### 虚拟设施
 
@@ -124,4 +124,4 @@
 * rel\_area\_fac 各空间范围与路侧设施关系，主要指路侧设施与各空间范围的包含关系
 * rel\_intvl\_fac 各路网区间与路侧设施关系，主要指路侧设施与各路网区间的包含关系
 
-<figure><img src="../.gitbook/assets/od.jpg" alt=""><figcaption><p>OD数据使用示意图</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/od.jpg" alt=""><figcaption><p>OD数据使用示意图</p></figcaption></figure>
