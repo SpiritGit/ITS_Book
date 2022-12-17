@@ -61,7 +61,7 @@
 * road\_hw\_line 高速路线(由高速路网道路路线根据一定规则合并而来)
 * road\_hw\_info 高速相关属性信息
 
-
+<figure><img src="../.gitbook/assets/jshw.jpeg" alt=""><figcaption><p>江苏高速路网示意图</p></figcaption></figure>
 
 ### 路侧设施
 
@@ -83,7 +83,7 @@
 * fac\_hw\_traffic\_light 高速信号灯&#x20;
 * fac\_hw\_billboard 高速广告牌
 
-###
+<figure><img src="../.gitbook/assets/jshw_ts.jpeg" alt=""><figcaption><p>江苏收费站示意图</p></figcaption></figure>
 
 ### 虚拟设施
 
@@ -124,3 +124,4 @@
 * rel\_area\_fac 各空间范围与路侧设施关系，主要指路侧设施与各空间范围的包含关系
 * rel\_intvl\_fac 各路网区间与路侧设施关系，主要指路侧设施与各路网区间的包含关系
 
+<figure><img src="../.gitbook/assets/od.jpg" alt=""><figcaption><p>OD数据使用示意图</p></figcaption></figure>
