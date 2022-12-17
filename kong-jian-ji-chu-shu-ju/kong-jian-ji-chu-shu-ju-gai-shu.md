@@ -46,6 +46,11 @@
 * base\_obstacle\_rm 排障大队管辖范围&#x20;
 * base\_roadline 各条高速路线范围
 * base\_water 全国水体底图
+* road\_hw\_intvl\_X 基于各类设施的路网区间
+
+<figure><img src="../.gitbook/assets/js_distr.jpeg" alt=""><figcaption><p>江苏行政区划示意图</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/base_water (1).jpeg" alt=""><figcaption><p>江苏水体示意图</p></figcaption></figure>
 
 ### 道路
 
@@ -55,7 +60,8 @@
 * road\_hw 高速路网道路路线
 * road\_hw\_line 高速路线(由高速路网道路路线根据一定规则合并而来)
 * road\_hw\_info 高速相关属性信息
-* road\_hw\_intvl\_X 基于各类设施的路网区间
+
+
 
 ### 路侧设施
 
@@ -76,6 +82,8 @@
 * fac\_hw\_indicator 高速指示牌
 * fac\_hw\_traffic\_light 高速信号灯&#x20;
 * fac\_hw\_billboard 高速广告牌
+
+###
 
 ### 虚拟设施
 
@@ -115,6 +123,4 @@
 * rel\_gtr\_partial\_od 门架局部 OD 关系，用于门架级流量 OD 分析可 视化展示
 * rel\_area\_fac 各空间范围与路侧设施关系，主要指路侧设施与各空间范围的包含关系
 * rel\_intvl\_fac 各路网区间与路侧设施关系，主要指路侧设施与各路网区间的包含关系
-
-##
 
