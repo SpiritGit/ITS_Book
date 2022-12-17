@@ -1,6 +1,6 @@
 # 交通数字孪生核心能力
 
-<figure><img src="../../.gitbook/assets/can.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/can.jpg" alt=""><figcaption></figcaption></figure>
 
 #### 2.1 孪生展示与反向控制
 

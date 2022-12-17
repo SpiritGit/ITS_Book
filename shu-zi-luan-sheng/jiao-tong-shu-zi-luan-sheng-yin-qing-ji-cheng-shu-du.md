@@ -2,7 +2,7 @@
 
 #### 3.1 交通数字孪生引擎
 
-<figure><img src="../../.gitbook/assets/how.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/how.jpg" alt=""><figcaption></figcaption></figure>
 
 ​图3: 交通数字孪生引擎​
 
