@@ -34,7 +34,7 @@
   * [应用场景及解决方案](shu-zi-luan-sheng/ying-yong-chang-jing-ji-jie-jue-fang-an.md)
   * [参考文献](shu-zi-luan-sheng/can-kao-wen-xian.md)
 * [智能决策](ji-shu-pian/zhi-neng-jue-ce.md)
-* [车路协同](ji-shu-pian/che-lu-xie-tong.md)
+* [智能网联车路协同](ji-shu-pian/zhi-neng-wang-lian-che-lu-xie-tong.md)
 
 ## 应用篇
 
