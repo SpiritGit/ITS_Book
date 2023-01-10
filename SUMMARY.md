@@ -25,6 +25,7 @@
   * [参考文献](ji-shu-pian/di-tu/can-kao-wen-xian.md)
 * [高精度定位技术](ji-shu-pian/gao-jing-du-ding-wei-ji-shu.md)
 * [道路通行能力](ji-shu-pian/dao-lu-tong-hang-neng-li.md)
+* [交通流模型](ji-shu-pian/jiao-tong-liu-mo-xing.md)
 * [交通态势研判](ji-shu-pian/jiao-tong-tai-shi-yan-pan/README.md)
   * [交通流指标体系](ji-shu-pian/jiao-tong-tai-shi-yan-pan/jiao-tong-liu-zhi-biao-ti-xi.md)
 * [知识图谱](ji-shu-pian/zhi-shi-tu-pu.md)
