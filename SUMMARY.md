@@ -23,6 +23,7 @@
   * [高精度地图](ji-shu-pian/di-tu/gao-jing-du-di-tu.md)
   * [高速交通“一张图”](ji-shu-pian/di-tu/gao-su-jiao-tong-yi-zhang-tu.md)
   * [参考文献](ji-shu-pian/di-tu/can-kao-wen-xian.md)
+* [空间计算](ji-shu-pian/kong-jian-ji-suan.md)
 * [高精度定位技术](ji-shu-pian/gao-jing-du-ding-wei-ji-shu.md)
 * [道路通行能力](ji-shu-pian/dao-lu-tong-hang-neng-li.md)
 * [交通流模型](ji-shu-pian/jiao-tong-liu-mo-xing.md)
